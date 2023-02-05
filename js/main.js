@@ -199,7 +199,7 @@ function changeBackground() {
       app.style.backgroundImage = "url('image/" + imgArray[randomNumber] + "')"
 
 
-    }, 1000)
+    }, 5000)
 
 
 
